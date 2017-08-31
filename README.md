@@ -20,4 +20,7 @@
 1. When user adds their contact name to a social circle, then the app requests an approval. If the contact name is an existing user of the app, then the approval is requested in the app. If not then the app sends an invite email or an SMS with a link to AppStore. i.e. User either receives push notification or email or SMS with information that someone would like to add them to their social circle. User is able to approve or reject the incomming request.
 2. Once the social circle has been created, user can send a reminder to a contact on the social circle.
 
-![Demo](OTG.gif)
+
+### Demo gif ###
+
+![Demo](demos/OTG.gif)
